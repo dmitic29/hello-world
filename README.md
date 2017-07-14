@@ -1,2 +1,2 @@
 # hello-world
-My first repository. Idk what it's gonna be used for. Prolly nothing.
+I wanna code something here to look smart but I cant so this is everything for now.
